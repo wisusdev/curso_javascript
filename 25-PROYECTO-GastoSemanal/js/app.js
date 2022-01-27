@@ -1,7 +1,6 @@
 // Variables y selectores
 const formulario = document.querySelector('#agregar-gasto');
 const listadoGastos = document.querySelector('#gastos ul');
-let presupuesto01;
 
 // Eventos
 eventListeners();
@@ -139,6 +138,7 @@ class UI {
 
 // Instanciar
 const ui = new UI();
+let presupuesto01;
 
 // Funciones
 function pedirPresupuerto(){
