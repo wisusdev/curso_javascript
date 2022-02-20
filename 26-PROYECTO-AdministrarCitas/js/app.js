@@ -1,5 +1,5 @@
 // Campos del formulario
-const mascostaInput = document.querySelector('#mascota');
+const mascotaInput = document.querySelector('#mascota');
 const propietarioInput = document.querySelector('#propietario');
 const telefonoInput = document.querySelector('#telefono');
 const fechaInput = document.querySelector('#fecha');
@@ -131,7 +131,7 @@ function eventListeners(){
 	* change sirve para cuando dejamos de hacer cambios
 	* input sirve para camputar cada caracter en el input mientras se van realizando cambios
 	*/
-	mascostaInput.addEventListener('change', datosCita);
+	mascotaInput.addEventListener('change', datosCita);
 	propietarioInput.addEventListener('change', datosCita);
 	telefonoInput.addEventListener('change', datosCita);
 	fechaInput.addEventListener('change', datosCita);
@@ -228,7 +228,7 @@ function editCita(cita){
     const {mascota, propietario, telefono, fecha, hora, sintomas, id} = cita;
 
     // Llenar los inputs
-    mascostaInput.value = mascota;
+    mascotaInput.value = mascota;
     propietarioInput.value = propietario;
     telefonoInput.value = telefono;
     fechaInput.value = fecha;
