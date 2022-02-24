@@ -120,9 +120,10 @@ class UI {
 
                 // Botòn de editar cita
                 const btnEdita = document.createElement('button');
+                const cita = cursor.value;
+                btnEdita.onclick = () => editCita(cita); // Le pasamos todos los datos de la cita
                 btnEdita.classList.add('btn', 'btn-primary', 'mr-2');
                 btnEdita.innerHTML = 'Editar';
-                btnEdita.onclick = () => editCita(cita); // Le pasamos todos los datos de la cita
 
                 // Agregar parrafo a divCita
                 divCita.appendChild(mascotaParrafo);
@@ -188,10 +189,22 @@ function nuevaCita(event){
         // Pasar el objeto de la cita a edicion
         administrarCitas.editarCita({...citaObj});
 
-        // Cambiar el texto del botòn
-        formulario.querySelector('button[type="submit"]').textContent = 'Crear cita';
+        // Editando desde IndexDB
+        const transaction = DB.transaction(['citas'], 'readwrite');
+        const objectStore = transaction.objectStore('citas');
+        objectStore.put(citaObj);
 
-        editando = false;
+        transaction.oncomplete = () => {
+            // Cambiar el texto del botòn
+            formulario.querySelector('button[type="submit"]').textContent = 'Crear cita';
+
+            editando = false;
+        }
+
+        transaction.onerror = () => {
+
+        }
+
     } else {
         // Generar un ID unico
         citaObj.id = Date.now();
@@ -237,13 +250,21 @@ function reiniciarObjeto(){
 // Eliminar cita
 function borrarCita(id){
     // Eliminar cita
-    administrarCitas.aliminarCita(id);
+    const transaction = DB.transaction(['citas'], 'readwrite');
+    const objectStore = transaction.objectStore('citas');
+    objectStore.delete(id);
 
-    // Mostrar el mensaje
-    ui.mostrarMensaje(`La cita ${id} fue eliminada con exito`);
+    transaction.oncomplete = () => {
+        // Mostrar el mensaje
+        ui.mostrarMensaje(`La cita ${id} fue eliminada con exito`);
 
-    // Actualizar
-    ui.imprimirCitas();
+        // Actualizar
+        ui.imprimirCitas();
+    }
+
+    transaction.onerror = () => {
+        console.log('Hubo un error');
+    }
 }
 
 // Cargar los datos y editar
