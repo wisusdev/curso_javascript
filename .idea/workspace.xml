@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d63c14b4-fb45-4552-8b7a-3cdc8f53b2a9" name="Changes" comment="Implementaciòn de IndexDB">
-      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/js/01-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/js/02-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/js/03-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/js/04-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/js/05-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/42-PROYECTO-AsyncAwait-Pixabay/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/42-PROYECTO-AsyncAwait-Pixabay/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/43-PROYECTO-AsyncAwait-Criptomonedas/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/43-PROYECTO-AsyncAwait-Criptomonedas/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/API.js" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/API.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/editarcliente.js" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/editarcliente.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/funciones.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/nuevocliente.js" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/nuevocliente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/45-FunctionalJS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/01-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/02-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/03-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/04-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/05-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/06-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/06-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/07-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/07-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/08-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/08-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/09-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/09-app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +135,8 @@
       <workItem from="1654641362170" duration="28000" />
       <workItem from="1655675219813" duration="309000" />
       <workItem from="1655724360887" duration="201000" />
+      <workItem from="1656340445832" duration="577000" />
+      <workItem from="1656341037144" duration="4723000" />
     </task>
     <task id="LOCAL-00001" summary="IndexDB">
       <created>1645501051810</created>
