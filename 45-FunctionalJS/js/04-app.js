@@ -8,3 +8,14 @@ const carrito = [
     { nombre: 'Bocinas', precio: 300},
     { nombre: 'Laptop', precio: 800},
 ];
+
+/**
+ * .map es muy utilizado en Functional JS
+ */
+
+const obtenerNombres = producto => {
+    return producto.nombre;
+}
+
+const resultado = carrito.map(obtenerNombres);
+console.log(resultado);
