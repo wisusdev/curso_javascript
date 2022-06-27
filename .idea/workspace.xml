@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d63c14b4-fb45-4552-8b7a-3cdc8f53b2a9" name="Changes" comment="Implementaciòn de IndexDB">
+      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/js/03-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/js/04-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41-AsyncAwait/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/41-AsyncAwait/js/05-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/42-PROYECTO-AsyncAwait-Pixabay/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/42-PROYECTO-AsyncAwait-Pixabay/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/43-PROYECTO-AsyncAwait-Criptomonedas/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/43-PROYECTO-AsyncAwait-Criptomonedas/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/API.js" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/API.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/editarcliente.js" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/editarcliente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/nuevocliente.js" beforeDir="false" afterPath="$PROJECT_DIR$/44-PROYECTO-CRM-CRUD-REST/js/nuevocliente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/03-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/04-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/04-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/05-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/05-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/06-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/06-app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25I7XUspdU4ec5ZEiE5WkApWlRq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d63c14b4-fb45-4552-8b7a-3cdc8f53b2a9" name="Changes" comment="" />
+      <created>1645202787899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645202787899</updated>
+      <workItem from="1645202789085" duration="8204000" />
+      <workItem from="1645241449079" duration="3676000" />
+      <workItem from="1645308552048" duration="3855000" />
+      <workItem from="1645327813115" duration="4209000" />
+      <workItem from="1645388047828" duration="4240000" />
+      <workItem from="1645452506361" duration="411000" />
+      <workItem from="1645499413813" duration="1599000" />
+      <workItem from="1645585823219" duration="2353000" />
+      <workItem from="1645617657318" duration="1076000" />
+      <workItem from="1645703660194" duration="17512000" />
+      <workItem from="1645805387023" duration="3963000" />
+      <workItem from="1645909085050" duration="7565000" />
+      <workItem from="1645976004236" duration="5000" />
+      <workItem from="1646080518877" duration="5826000" />
+      <workItem from="1646134600262" duration="4224000" />
+      <workItem from="1646148286327" duration="2935000" />
+      <workItem from="1646154322353" duration="8318000" />
+      <workItem from="1646220797349" duration="3055000" />
+      <workItem from="1646232825555" duration="598000" />
+      <workItem from="1646233680238" duration="7256000" />
+      <workItem from="1646276709194" duration="622000" />
+      <workItem from="1646320928491" duration="1127000" />
+      <workItem from="1646326173577" duration="4060000" />
+      <workItem from="1646360404425" duration="2696000" />
+      <workItem from="1646407047793" duration="8076000" />
+      <workItem from="1646499261914" duration="5693000" />
+      <workItem from="1646579200044" duration="93000" />
+      <workItem from="1646603029897" duration="2626000" />
+      <workItem from="1646653309405" duration="8000" />
+      <workItem from="1646686142004" duration="311000" />
+      <workItem from="1646841668964" duration="777000" />
+      <workItem from="1646965098559" duration="237000" />
+      <workItem from="1646999714567" duration="245000" />
+      <workItem from="1648094273639" duration="1014000" />
+      <workItem from="1648504069584" duration="250000" />
+      <workItem from="1649039485652" duration="577000" />
+      <workItem from="1649733059888" duration="63000" />
+      <workItem from="1649775736106" duration="599000" />
+      <workItem from="1649776463631" duration="24000" />
+      <workItem from="1650118673661" duration="2084000" />
+      <workItem from="1650253968702" duration="374000" />
+      <workItem from="1650382661310" duration="496000" />
+      <workItem from="1650422009741" duration="247000" />
+      <workItem from="1650461985863" duration="220000" />
+      <workItem from="1650488396787" duration="351000" />
+      <workItem from="1650554153818" duration="1052000" />
+      <workItem from="1650900593062" duration="19000" />
+      <workItem from="1651153737020" duration="267000" />
+      <workItem from="1651165418877" duration="353000" />
+      <workItem from="1651177000082" duration="3673000" />
+      <workItem from="1651330913355" duration="2698000" />
+      <workItem from="1651610970829" duration="965000" />
+      <workItem from="1652065426482" duration="459000" />
+      <workItem from="1652103081136" duration="196000" />
+      <workItem from="1652184463069" duration="2431000" />
+      <workItem from="1652220178252" duration="172000" />
+      <workItem from="1652726393822" duration="23704000" />
+      <workItem from="1652845510541" duration="9000" />
+      <workItem from="1653518150975" duration="597000" />
+      <workItem from="1653540315600" duration="293000" />
+      <workItem from="1653852401467" duration="539000" />
+      <workItem from="1653923489517" duration="642000" />
+      <workItem from="1654051085604" duration="50000" />
+      <workItem from="1654180507873" duration="663000" />
+      <workItem from="1654192920084" duration="271000" />
+      <workItem from="1654641362170" duration="28000" />
+      <workItem from="1655675219813" duration="309000" />
+      <workItem from="1655724360887" duration="201000" />
+    </task>
+    <task id="LOCAL-00001" summary="IndexDB">
+      <created>1645501051810</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645501051810</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implementaciòn de IndexDB">
+      <created>1645501119747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645501119747</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implementaciòn de IndexDB">
+      <created>1645589710688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645589710688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implementaciòn de IndexDB">
+      <created>1645703898126</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645703898126</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IndexDB" />
+    <MESSAGE value="Implementaciòn de IndexDB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementaciòn de IndexDB" />
+  </component>
+</project>
