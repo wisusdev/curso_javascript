@@ -7,9 +7,10 @@
     <list default="true" id="d63c14b4-fb45-4552-8b7a-3cdc8f53b2a9" name="Changes" comment="Implementaciòn de IndexDB">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/45-FunctionalJS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/07-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/07-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/08-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/08-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/09-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/09-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/10-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/10-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46-DominandoJavaScript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/46-DominandoJavaScript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46-DominandoJavaScript/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/46-DominandoJavaScript/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/46-DominandoJavaScript/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/46-DominandoJavaScript/js/02-app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,8 @@
       <workItem from="1655675219813" duration="309000" />
       <workItem from="1655724360887" duration="201000" />
       <workItem from="1656340445832" duration="577000" />
-      <workItem from="1656341037144" duration="4723000" />
+      <workItem from="1656341037144" duration="5320000" />
+      <workItem from="1656449830866" duration="6249000" />
     </task>
     <task id="LOCAL-00001" summary="IndexDB">
       <created>1645501051810</created>
