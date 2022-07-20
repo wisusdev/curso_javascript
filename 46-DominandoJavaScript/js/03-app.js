@@ -1,4 +1,4 @@
-// Coercion de un tito de dato a otro
+// Coerción de un tito de dato a otro
 const num01 = 20;
 const num02 = '10';
 
