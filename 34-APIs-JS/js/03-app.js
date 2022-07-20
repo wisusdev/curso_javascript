@@ -1,4 +1,4 @@
-// Detectar si hay cinexion a internet o no
+// Detectar si hay conexion a internet o no
 window.addEventListener('online', actualizarStatus);
 window.addEventListener('offline', actualizarStatus);
 
