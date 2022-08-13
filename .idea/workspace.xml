@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d63c14b4-fb45-4552-8b7a-3cdc8f53b2a9" name="Changes" comment="Implementaciòn de IndexDB">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/45-FunctionalJS/js/10-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/45-FunctionalJS/js/10-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/46-DominandoJavaScript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/46-DominandoJavaScript/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/46-DominandoJavaScript/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/46-DominandoJavaScript/js/01-app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/46-DominandoJavaScript/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/46-DominandoJavaScript/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/47-ServiceWorkers-PWA/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/47-ServiceWorkers-PWA/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/47-ServiceWorkers-PWA/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/47-ServiceWorkers-PWA/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/47-ServiceWorkers-PWA/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/47-ServiceWorkers-PWA/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +137,16 @@
       <workItem from="1656340445832" duration="577000" />
       <workItem from="1656341037144" duration="5320000" />
       <workItem from="1656449830866" duration="6249000" />
+      <workItem from="1658686804218" duration="750000" />
+      <workItem from="1659117690306" duration="232000" />
+      <workItem from="1659199303908" duration="771000" />
+      <workItem from="1659225140560" duration="117000" />
+      <workItem from="1659556210027" duration="180000" />
+      <workItem from="1659556454267" duration="39000" />
+      <workItem from="1659716101588" duration="266000" />
+      <workItem from="1659718750857" duration="416000" />
+      <workItem from="1659911584426" duration="3000" />
+      <workItem from="1660013377757" duration="382000" />
     </task>
     <task id="LOCAL-00001" summary="IndexDB">
       <created>1645501051810</created>
